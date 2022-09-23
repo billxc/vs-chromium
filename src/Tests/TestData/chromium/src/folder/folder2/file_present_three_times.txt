@@ -1,2 +1,0 @@
-This is a test search string.
-This is another test search string.
