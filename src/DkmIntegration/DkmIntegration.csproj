@@ -34,7 +34,7 @@
     </VsdConfigXml>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="$(BuildRoot)srcCore\Core.csproj" />
+    <ProjectReference Include="$(BuildRoot)src\Core\Core.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Microsoft.Dia.Interop.dll" />
