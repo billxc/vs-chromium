@@ -9,6 +9,7 @@ using VsChromium.Core.Collections;
 using VsChromium.Core.Files;
 using VsChromium.Core.Linq;
 using VsChromium.Core.Utility;
+using KeyValuePair = VsChromium.Core.Utility.KeyValuePair;
 
 namespace VsChromium.Server.FileSystem.Builder {
   /// <summary>

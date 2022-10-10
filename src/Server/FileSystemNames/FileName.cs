@@ -7,6 +7,7 @@ using System.Text;
 using VsChromium.Core.Files;
 using VsChromium.Core.Logging;
 using VsChromium.Core.Utility;
+using HashCode = VsChromium.Core.Utility.HashCode;
 
 namespace VsChromium.Server.FileSystemNames {
   /// <summary>

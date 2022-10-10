@@ -19,6 +19,7 @@ using VsChromium.Server.FileSystemNames;
 using VsChromium.Server.NativeInterop;
 using VsChromium.Server.ProgressTracking;
 using VsChromium.Server.Projects;
+using HashCode = VsChromium.Core.Utility.HashCode;
 
 namespace VsChromium.Server.FileSystemDatabase.Builder {
   public class FileDatabaseBuilder {

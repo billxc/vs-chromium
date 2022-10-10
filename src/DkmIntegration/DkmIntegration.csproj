@@ -34,7 +34,7 @@
     </VsdConfigXml>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="$(BuildRoot)src\Core\Core.csproj" />
+    <ProjectReference Include="C:\Users\xiaocw\source\repos\vs-chromium\src\Core\Core.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Microsoft.Dia.Interop.dll" />
